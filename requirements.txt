@@ -1,0 +1,5 @@
+streamlit
+google-generativeai # gen ai model
+python-dotenv  # meant for local environmentpip
+langchain
+langchain-google-genai
